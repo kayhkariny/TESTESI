@@ -2,7 +2,7 @@
 
 ## Personas 1
 - **Quem**
-- __Contexto__
+- Contexto
 - Problemas
 
 ### Personas 3
