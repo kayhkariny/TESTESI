@@ -13,5 +13,5 @@
 
 ``` 
 valor = imput("Digite um valor")
-print(valor
+print(valor)
 ```
