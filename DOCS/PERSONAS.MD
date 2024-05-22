@@ -20,4 +20,4 @@ print(valor)
 | Cabeçalho 1 | Cabeçalho 2 |
 | ----------- | ----------- |
 | Linha 1, C1 | Linha 2, C2 |
-| linha 2, c2 | Linha 2, C2 |
+| Linha 2, c2 | Linha 2, C2 |
