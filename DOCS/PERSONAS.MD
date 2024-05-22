@@ -1,8 +1,8 @@
 # Personas
 
 ## Personas 1
-- Quem
-- Contexto
+- **Quem**
+- __Contexto__
 - Problemas
 
 ### Personas 3
